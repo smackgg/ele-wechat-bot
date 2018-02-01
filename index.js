@@ -1,5 +1,4 @@
 const Wechat = require('wechat4u')
-const qrcode = require('qrcode')
 let bot = new Wechat()
 bot.start()
 
